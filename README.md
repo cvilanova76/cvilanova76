@@ -7,6 +7,8 @@
 - 🌱 Aprendendo mais sobre **Python, estatística e data analytics**
 
 - ⚡ Fun facts: Gateira que fala cinco línguas e ama viajar pelo mundo
+  
+-  🤔 Este é meu perfil de estudo. O profissional, vinculado ao Meli, está protegido
 
 <h3>Minhas Skills</h3>
 
