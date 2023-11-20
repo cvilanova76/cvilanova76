@@ -44,7 +44,7 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-cvilanova76-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinavilanova)](https://www.linkedin.com/in/carolinavilanova/)
+[![Linkedin](https://img.shields.io/badge/-carolinavilanova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinavilanova)](https://www.linkedin.com/in/carolinavilanova/)
 [![GitHub](https://img.shields.io/github/followers/cvilanova76?label=follow&style=social)](https://github.com/cvilanova76)
 
 <!--
