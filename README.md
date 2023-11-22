@@ -8,7 +8,7 @@
 
 - ⚡ Fun facts: Gateira que fala cinco línguas e ama viajar pelo mundo
   
--  🤔 Este é meu perfil de estudo. O profissional, vinculado ao Meli, está protegido
+-  🤔 Este é meu perfil de estudo. O profissional, vinculado ao Meli, não está aberto ao público
 
 <h3>Minhas Skills</h3>
 
