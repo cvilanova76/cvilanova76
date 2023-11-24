@@ -2,7 +2,7 @@
 
 - 💬 Sou originalmente uma jornalista com mais de 20 anos de profissão
 
-- 💼 Trabalho como **Jr Software Developer** no Mercado Livre desde out/23
+- 💼 Trabalho como **Jr Software Developer** (Back-End Java) no Mercado Livre desde out/23
 
 - 🌱 Aprendendo mais sobre **Python, estatística e data analytics**
 
