@@ -39,7 +39,7 @@
 
 <h3>My Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvilanova76&show_icons=true&locale=en&layout=compact" alt="cvilanova76" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cvilanova76&theme=dracula&show_icons=true&locale=en" alt="cvilanova76" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cvilanova76&show_icons=true&locale=en" alt="cvilanova76" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvilanova76&theme=dracula&show_icons=true&locale=en&layout=compact" alt="cvilanova76"  /></p>
 
