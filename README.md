@@ -39,12 +39,11 @@
 
 </br>
 
+<h3>My Stats</h3>
+
 <a href="https://github.com/cvilanova76" title="My Stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvilanova76&theme=dracula&show_icons=true&locale=en&layout=compact" alt="cvilanova76" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=cvilanova76&theme=dracula&show_icons=true&locale=en" alt="cvilanova76" />
 </a>
 
-<h3>Onde me encontrar</h3>
-
-[![Linkedin](https://img.shields.io/badge/-carolinavilanova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinavilanova)](https://www.linkedin.com/in/carolinavilanova/)
-[![GitHub](https://img.shields.io/github/followers/cvilanova76?label=follow&style=social)](https://github.com/cvilanova76)
+</br>
