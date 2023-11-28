@@ -1,4 +1,4 @@
-<h3>About me</h3>
+<h3>Hi, I am Carol</h3>
 
 - 💬 I am originally a journalist with extensive professional experience (20+ years)
 
