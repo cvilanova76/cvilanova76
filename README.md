@@ -6,7 +6,7 @@
 
 - 🌱 I am learning more about **Python, statistics e data analytics**
 
-- ⚡ Fun facts: Cat lover, polyglot and globetrotter
+- ⚡ Fun facts: I am a cat lover, polyglot and globetrotter
   
 -  🤔 This is my personal profile. My professional profile is not open to the public
 
