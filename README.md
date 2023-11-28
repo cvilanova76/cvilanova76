@@ -1,6 +1,6 @@
-<h3>Hi, I'm Carol</h3>
+<h3>Hi , I'm Carol</h3>
 
-- 💼 I am a **Jr Software Developer** (Back-End Java) at Mercado Livre since Oct/23
+- 💼 I've been a **Jr Software Developer** (Back-End Java) at Mercado Livre since Oct/23
 
 - 💬 Before that I worked as a journalist for over 20 years
 
