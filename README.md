@@ -1,18 +1,18 @@
-<h3>Sobre mim</h3>
+<h3>About me</h3>
 
-- 💬 Sou originalmente uma jornalista com mais de 20 anos de profissão
+- 💬 I am originally a journalist with extensive professional experience (20+ years)
 
-- 💼 Trabalho como **Jr Software Developer** (Back-End Java) no Mercado Livre desde out/23
+- 💼 I work as a **Jr Software Developer** (Back-End Java) at Mercado Livre since Oct/23
 
-- 🌱 Aprendendo mais sobre **Python, estatística e data analytics**
+- 🌱 Learning more about **Python, statistics e data analytics**
 
-- ⚡ Fun facts: Gateira que fala cinco línguas e ama viajar pelo mundo
+- ⚡ Fun facts: Cat lover, polyglot and globetrotter
   
--  🤔 Este é meu perfil de estudo. O profissional, vinculado ao Meli, não está aberto ao público
+-  🤔 This is my personal profile. My professional profile is not open to the public
 
-<h3>Minhas Skills</h3>
+<h3>My Skills</h3>
 
-**Aplicações e dados**
+**Languages & Frameworks**
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -20,9 +20,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+**Data & ML**
+![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)
+![Scikit Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+**Utilities**
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
@@ -31,7 +36,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white)
 
-**Ferramentas de desenvolvimento**
+**IDE**
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
@@ -43,22 +48,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvilanova76&theme=dracula&show_icons=true" />
 </a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvilanova76&show_icons=true&locale=en&layout=compact" alt="cvilanova76" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cvilanova76&show_icons=true&locale=en" alt="cvilanova76" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cvilanova76&" alt="cvilanova76" /></p>
+
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-carolinavilanova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinavilanova)](https://www.linkedin.com/in/carolinavilanova/)
 [![GitHub](https://img.shields.io/github/followers/cvilanova76?label=follow&style=social)](https://github.com/cvilanova76)
-
-<!--
-**cvilanova76/cvilanova76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
