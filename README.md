@@ -20,11 +20,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-
-**Data & ML**
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)
-![Scikit Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
-![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilities**
@@ -44,15 +39,10 @@
 
 <br/>
 
-<a href="https://github.com/cvilanova76" title="Perfil da Carol">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvilanova76&theme=dracula&show_icons=true" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvilanova76&theme=dracula&show_icons=true&locale=en&layout=compact" alt="cvilanova76" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvilanova76&show_icons=true&locale=en&layout=compact" alt="cvilanova76" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cvilanova76&theme=dracula&show_icons=true&locale=en" alt="cvilanova76" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cvilanova76&show_icons=true&locale=en" alt="cvilanova76" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cvilanova76&" alt="cvilanova76" /></p>
 
 <h3>Onde me encontrar</h3>
 
