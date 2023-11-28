@@ -37,12 +37,12 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 
-<br/>
+</br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvilanova76&theme=dracula&show_icons=true&locale=en&layout=compact" alt="cvilanova76" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cvilanova76&theme=dracula&show_icons=true&locale=en" alt="cvilanova76" /></p>
-
+<a href="https://github.com/cvilanova76" title="My Stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvilanova76&theme=dracula&show_icons=true&locale=en&layout=compact" alt="cvilanova76" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=cvilanova76&theme=dracula&show_icons=true&locale=en" alt="cvilanova76" />
+</a>
 
 <h3>Onde me encontrar</h3>
 
