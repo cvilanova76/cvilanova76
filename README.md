@@ -1,10 +1,10 @@
 <h3>Hi, I am Carol</h3>
 
-- 💬 I am originally a journalist with extensive professional experience (20+ years)
+- 💼 I am a **Jr Software Developer** (Back-End Java) at Mercado Livre since Oct/23
 
-- 💼 I work as a **Jr Software Developer** (Back-End Java) at Mercado Livre since Oct/23
+- 💬 Before that I worked as a journalist for over 20 years
 
-- 🌱 Learning more about **Python, statistics e data analytics**
+- 🌱 I am learning more about **Python, statistics e data analytics**
 
 - ⚡ Fun facts: Cat lover, polyglot and globetrotter
   
