@@ -8,7 +8,7 @@
 
 - ⚡ Fun facts: I am a cat lover, polyglot and globetrotter
   
--  🤔 This is my personal profile. My professional profile is not open to the public, but you can have a glance at my work activity from here: https://github.com/cvilanova_meli?tab=overview
+-  🤔 This is my personal profile. My professional profile is not open to the public
 
 <h3>My Skills</h3>
 
