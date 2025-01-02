@@ -1,10 +1,10 @@
 <h3>Hi , I'm Carol</h3>
 
-- 💼 I've been a **Jr Software Developer** (Back-End) at Mercado Livre since Oct/23
+- 💼 I've been a **Jr Software Developer** (Back-End) at Mercado Livre since Oct/23. My main languages are **Golang** and **Java**
 
 - 💬 Before that I worked as a journalist for over 20 years
 
-- 🌱 I am learning more about **Python, statistics e data analytics**
+- 🌱 Also I have skills in **Python, statistics e data analytics**
 
 - ⚡ Fun facts: I am a cat lover, polyglot and globetrotter
   
@@ -13,7 +13,7 @@
 <h3>My Skills</h3>
 
 **Languages & Frameworks**
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
