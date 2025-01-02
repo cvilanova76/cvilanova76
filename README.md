@@ -4,7 +4,7 @@
 
 - 💬 Before that I worked as a journalist for over 20 years
 
-- 🌱 Also I have skills in **Python, statistics e data analytics**
+- 🌱 Also, I have skills in **Python, statistics e data analytics**
 
 - ⚡ Fun facts: I am a cat lover, polyglot and globetrotter
   
